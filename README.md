@@ -6,7 +6,6 @@
 <a href="https://github.com/learnttuce0321" target="_blank"><img src="https://img.shields.io/badge/Redux-764ABC?style=flat-squart&logo=redux&logoColor=white"/></a>
 <a href="https://github.com/learnttuce0321" target="_blank"><img src="https://img.shields.io/badge/Styledcomponents-DB7093?style=flat-squart&logo=styledcomponents&logoColor=white"/></a>
 
-
 <a href="https://github.com/learnttuce0321" target="_blank"><img src="https://img.shields.io/badge/Express-61DAFB?style=flat-squart&logo=express&logoColor=white"/></a>
 <a href="https://github.com/learnttuce0321" target="_blank"><img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-squart&logo=sequelize&logoColor=white"/></a>
 <a href="https://github.com/learnttuce0321" target="_blank"><img src="https://img.shields.io/badge/Typeform-262626?style=flat-squart&logo=typeform&logoColor=white"/></a>
