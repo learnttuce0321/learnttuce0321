@@ -10,6 +10,11 @@
 <a href="https://github.com/learnttuce0321" target="_blank"><img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-squart&logo=sequelize&logoColor=white"/></a>
 <a href="https://github.com/learnttuce0321" target="_blank"><img src="https://img.shields.io/badge/Typeform-262626?style=flat-squart&logo=typeform&logoColor=white"/></a>
 
+<a href="https://github.com/learnttuce0321" target="_blank"><img src="https://img.shields.io/badge/Amazonec2-FF9900?style=flat-squart&logo=amazonec2&logoColor=white"/></a>
+<a href="https://github.com/learnttuce0321" target="_blank"><img src="https://img.shields.io/badge/amazons3-569A31?style=flat-squart&logo=amazons3&logoColor=white"/></a>
+<a href="https://github.com/learnttuce0321" target="_blank"><img src="https://img.shields.io/badge/Amazonrds-527FFF?style=flat-squart&logo=amazonrds&logoColor=white"/></a>
+
+
 
 
 
