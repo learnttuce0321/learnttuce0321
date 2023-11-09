@@ -22,7 +22,16 @@
 <a href="https://github.com/learnttuce0321" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat-squart&logo=git&logoColor=white"/></a>
 <a href="https://github.com/learnttuce0321" target="_blank"><img src="https://img.shields.io/badge/Github-171717?style=flat-squart&logo=github&logoColor=white"/></a>
 
+### 안녕하세요!
+저는 숭실대학교 소프트웨어학부를 다니는 <strong> 주상후 </strong> 입니다.
+리팩토링에 대해 관심이 많은 주니어 프론트엔드 개발자 입니다.
 
+### Experience 👑
+
+<ul>
+  <li> 🎓 숭실대학교 소프트웨어학부 ( 2021.03 ~ )</li>
+  <li> 📓 포스코 X 코딩온 KDT 풀스택 웹 개발자 ( 2023.07 ~ 2024.01 )
+</ul>
 
 
 
