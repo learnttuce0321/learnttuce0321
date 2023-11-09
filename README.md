@@ -1,9 +1,4 @@
 # 🎉항상 미래를 꿈꾸는 개발자 주상후 입니다.🎉
-<div>
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=learnttuce0321&show_icons=true&theme=transparent)
-  
-</div>
 
 <div style="display: flex;">
 
@@ -27,6 +22,14 @@
 </div>
   
 </div>
+<div>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=learnttuce0321&show_icons=true&theme=transparent" />
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=learnttuce0321&show_icons=true&theme=transparent)
+  
+</div>
+
+
 
 <br />
 
