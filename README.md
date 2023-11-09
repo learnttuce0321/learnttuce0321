@@ -12,6 +12,8 @@
 저는 숭실대학교 소프트웨어학부이며, 현재는 휴학 중 입니다. <br />
 항상 미래를 꿈꾸며 열심히 공부하고 있습니다. <br />
 
+<hr />
+
 ### Experience 👑
 
 <ul>
@@ -50,6 +52,8 @@
 <a href="https://github.com/learnttuce0321" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-squart&logo=slack&logoColor=white"/></a>
 <a href="https://github.com/learnttuce0321" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat-squart&logo=git&logoColor=white"/></a>
 <a href="https://github.com/learnttuce0321" target="_blank"><img src="https://img.shields.io/badge/Github-171717?style=flat-squart&logo=github&logoColor=white"/></a>
+
+<hr />
 
 
 
