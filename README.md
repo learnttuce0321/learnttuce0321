@@ -61,6 +61,9 @@
 <a href="https://github.com/learnttuce0321" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat-squart&logo=git&logoColor=white"/></a>
 <a href="https://github.com/learnttuce0321" target="_blank"><img src="https://img.shields.io/badge/Github-171717?style=flat-squart&logo=github&logoColor=white"/></a>
 
+#### blog
+<a href="https://github.com/learnttuce0321" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-squart&logo=velog&logoColor=white"/></a>
+
 <hr />
 
 
