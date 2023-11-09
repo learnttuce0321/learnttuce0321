@@ -1,3 +1,5 @@
+<a href="https://github.com/learnttuce/hit-counter"/>
+
 <a href="https://github.com/learnttuce0321" target="_blank"><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-squart&logo=javascript&logoColor=white"/></a>
 <a href="https://github.com/learnttuce0321" target="_blank"><img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-squart&logo=typescript&logoColor=white"/></a>
 <a href="https://github.com/learnttuce0321" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-squart&logo=python&logoColor=white"/></a>
