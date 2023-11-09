@@ -14,7 +14,7 @@
   <li> 📓 포스코 X 코딩온 KDT 풀스택 웹 개발자 ( 2023.07 ~ 2024.01 )
 </ul>
 
-### Stack 📚
+## Skill 📚
 
 #### language
 <a href="https://github.com/learnttuce0321" target="_blank"><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-squart&logo=javascript&logoColor=white"/></a>
