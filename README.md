@@ -7,7 +7,7 @@
   
 </div>
 
-<div display="flex" flex-direction=""column>
+<div style="display: flex; flex-direction: column">
 
 <div>
   <h3>안녕하세요 👋</h3>
