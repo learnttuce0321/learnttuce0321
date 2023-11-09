@@ -47,7 +47,7 @@
 #### back-end framework, library
 <a href="https://github.com/learnttuce0321" target="_blank"><img src="https://img.shields.io/badge/Express-000000?style=flat-squart&logo=express&logoColor=white"/></a>
 <a href="https://github.com/learnttuce0321" target="_blank"><img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-squart&logo=sequelize&logoColor=white"/></a>
-<a href="https://github.com/learnttuce0321" target="_blank"><img src="https://img.shields.io/badge/Typeform-262626?style=flat-squart&logo=typeform&logoColor=white"/></a>
+<a href="https://github.com/learnttuce0321" target="_blank"><img src="https://img.shields.io/badge/TypeOrm-262626?style=flat-squart/></a>
 <a href="https://github.com/learnttuce0321" target="_blank"><img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-squart&logo=mysql&logoColor=white"/></a>
 
 #### devops
